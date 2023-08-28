@@ -1,2 +1,2 @@
 
-<img width="497" alt="螢幕截圖 2023-08-28 10 58 31" src="https://github.com/RaymondRaman/Talib/assets/107023977/3ab62274-33bc-456c-a4de-86fdc71dee63">
+<img width="798" alt="螢幕截圖 2023-08-28 14 54 05" src="https://github.com/RaymondRaman/Talib/assets/107023977/c3d9e479-c918-4bc8-bdb4-490925245edb">
